@@ -1,0 +1,21 @@
+h1{
+    font-size: 2em;
+    color: #333;
+    text-align: center;
+    margin-top: 20px;
+    background-color: aquamarine;
+}
+h2{
+    font-size: 1.5em;
+    color: #555;
+    text-align: center;
+    margin-top: 10px;
+    background-color: lightcyan;
+    flex-wrap:;
+}
+p{
+    font-size: 1em;
+    color: #666;
+    text-align: justify;
+    margin: 10px 20px;
+}
