@@ -2,7 +2,8 @@ h1{
     font-size: 2em;
     color: #333;
     text-align: center;
-    margin: top 20px;;
+    margin: top 20px;
+    width:max-content;
     background-color: aquamarine;
 }
 h2{
