@@ -43,6 +43,13 @@ a{
 a:hover{
     color:green;
 }
+
+#submit:hover{
+    background-color: green;
+}
+input[type=text]{
+    padding: 5px;
+}
 footer{
     display: flex;
     flex-direction: column;
