@@ -1,5 +1,6 @@
 body{
     display:grid;
+    grid-template-columns: 1fr;
     max-width: 800px;
     margin-left: 150px;
 }
