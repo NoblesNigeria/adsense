@@ -32,11 +32,6 @@ aside{
     grid-template-columns: 1fr 1fr;
     gap: 1rem;
 }
-figure{
-    display: flex;
-    flex-direction: column;
-    align-items: center;
-}
 a{
     color:red;
 }

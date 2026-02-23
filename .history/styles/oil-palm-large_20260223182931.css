@@ -1,4 +1,4 @@
-@media only screen and (min-width: 38rem){
+@media only screen and (min-width: 3rem){
     body{
         display:grid;
         grid-template-columns: 1fr;
@@ -11,7 +11,7 @@
     }
     aside{
         display: flex;
-        flex-direction: row;
+        flex-direction: column;
     }
 
 }
