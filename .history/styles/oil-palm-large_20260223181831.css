@@ -7,9 +7,6 @@
         color:blue;
 
     }
-    aside{
-        display: grid;
-        grid-template-columns: 1fr;
-    }
+    aside{}
 
 }
