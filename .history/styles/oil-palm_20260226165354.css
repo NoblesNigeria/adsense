@@ -33,10 +33,7 @@ aside{
     grid-template-columns: 1fr ;
     gap: 1rem;
 }
-aside img{
-    display: flex;
-    flex-direction: column;
-}
+aside imag
 figure{
     display: flex;
     flex-direction: column;

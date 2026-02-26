@@ -34,8 +34,7 @@ aside{
     gap: 1rem;
 }
 aside img{
-    display: flex;
-    flex-direction: column;
+    di
 }
 figure{
     display: flex;
