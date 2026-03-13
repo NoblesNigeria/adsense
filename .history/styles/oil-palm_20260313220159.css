@@ -2,7 +2,7 @@ body{
     display:grid;
     grid-template-columns: 1fr;
     padding: 20px;
-    margin-left: 100px;
+    
 }
 header{
     display: flex;
