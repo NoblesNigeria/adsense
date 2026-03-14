@@ -9,11 +9,7 @@
         color:blue;
 
     }
-    aside{
-        display: grid;
-        grid-template-columns: 1fr 1fr;
-        gap: 1rem;
-    }
+    aside
     aside{
         display: flex;
         flex-direction: row;
