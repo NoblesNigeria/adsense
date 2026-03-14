@@ -1,6 +1,7 @@
 body{
     display:grid;
     grid-template-columns: 1fr;
+    padding: 40px 40px 40px 40px;
     overflow-x: hidden;
 
 }
