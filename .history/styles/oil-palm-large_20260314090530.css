@@ -15,9 +15,8 @@
         flex-direction: row;
     }
     aside img{
-        width: 200px;
-        height: 200px;
-        gap: 0.5rem;
+        width: 250px;
+        height: 250px;
     }
 
 }
