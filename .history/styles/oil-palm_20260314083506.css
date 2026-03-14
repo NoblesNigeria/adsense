@@ -28,6 +28,7 @@ h4{
 p{
     font-weight: 400;
     font-size: large;
+    padding: 10px;
 }
 p span{
     font-weight: 700;
@@ -79,7 +80,7 @@ tfoot {
 th,
 td {
   border: 1px solid rgb(160 160 160);
-  padding: 8px;
+  padding: 10px;
 }
 th {
   text-align: center;
