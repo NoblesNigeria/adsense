@@ -14,6 +14,10 @@
         grid-template-columns: 1fr 1fr;
         gap: 1rem;
     }
+    aside{
+        display: flex;
+        flex-direction: row;
+    }
     aside img{
         width: 200px;
         height: 200px;
