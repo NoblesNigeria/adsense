@@ -2,7 +2,7 @@
     body{
         display:grid;
         grid-template-columns: 1fr;
-        max-width: 800px;
+        max-width: 80px;
         margin: 150px;
     }
     h1{
