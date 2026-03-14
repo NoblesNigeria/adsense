@@ -1,7 +1,7 @@
 body{
     display:grid;
     grid-template-columns: 1fr;
-    padding: 40px;
+    padding: ;
     overflow-x: hidden;
 
 }
