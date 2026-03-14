@@ -3,7 +3,7 @@
         display:grid;
         grid-template-columns: 1fr;
         max-width: 800px;
-        padding: 200px;
+        padding: 0px;
     }
 
     aside{
