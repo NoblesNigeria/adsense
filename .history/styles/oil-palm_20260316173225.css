@@ -14,9 +14,6 @@ header{
 h1{
     color:green;
 }
-main{
-    margin: 20px;
-}
 h2{
     color:green;
 
@@ -44,9 +41,7 @@ aside img{
     display: flex;
     flex-direction: column;
 }
-section{
-    margin: 20px;
-}
+s
 figure{
     display: flex;
     flex-direction: column;

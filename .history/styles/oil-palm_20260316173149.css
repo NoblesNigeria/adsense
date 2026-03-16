@@ -14,9 +14,6 @@ header{
 h1{
     color:green;
 }
-main{
-    margin: 20px;
-}
 h2{
     color:green;
 
@@ -38,14 +35,11 @@ p span{
 aside{
     display: grid;
     grid-template-columns: 1fr ;
-    margin: 20px;
+    
 }
 aside img{
     display: flex;
     flex-direction: column;
-}
-section{
-    margin: 20px;
 }
 figure{
     display: flex;

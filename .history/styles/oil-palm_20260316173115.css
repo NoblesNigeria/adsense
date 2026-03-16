@@ -14,22 +14,22 @@ header{
 h1{
     color:green;
 }
-main{
-    margin: 20px;
-}
 h2{
     color:green;
 
 }
 h3{
     color:green;
+    margin: 20px;
 }
 h4{
     color:darkgreen;
+    margin: 20px;
 }
 p{
     font-weight: 400;
     font-size: large;
+    margin: 20px;
 
 }
 p span{
@@ -38,14 +38,10 @@ p span{
 aside{
     display: grid;
     grid-template-columns: 1fr ;
-    margin: 20px;
 }
 aside img{
     display: flex;
     flex-direction: column;
-}
-section{
-    margin: 20px;
 }
 figure{
     display: flex;
