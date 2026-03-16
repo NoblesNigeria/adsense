@@ -12,7 +12,7 @@ body{
     display: flex;
     background-color: lightgray ;
     width: auto;
-    margin: 10px;
+    margin: ;
 }
 h1{
     color:green;
@@ -68,7 +68,6 @@ footer{
     color: white;
     text-align: center;
     width: auto;
-    padding: 10px;
 
 }
 table {
