@@ -9,7 +9,6 @@ header{
     display: flex;
     background-color: lightgray ;
     padding: 5px;
-    margin: 20px
 }
 h1{
     color:green;
@@ -28,8 +27,6 @@ h4{
 p{
     font-weight: 400;
     font-size: large;
-    margin: 20px;
-
 }
 p span{
     font-weight: 700;
@@ -68,7 +65,7 @@ table {
   border-collapse: collapse;
   border: 2px solid rgb(140 140 140);
   font-family: sans-serif;
-  margin: 20px;
+  margin
 }
 thead,tr{
   background-color: rgb(200 220 240);
