@@ -2,7 +2,7 @@ body{
     display:grid;
     grid-template-columns: 1fr;
     overflow-x: hidden;
-    margin: 0 50px;
+    margin: 0 40px;
 
 }
 header{
@@ -78,7 +78,7 @@ th,
 td {
   border: 1px solid rgb(160 160 160);
   text-align: center;
-  margin: 0 8px;
+  margin: 0 px;
 }
 th {
   text-align: center;
