@@ -2,8 +2,8 @@
     body{
         display:grid;
         grid-template-columns: 1fr;
-        max-width: 1200px;
-        padding: 0;
+        max-width: 12px;
+        padding: 200px;
     }
 
     aside{
