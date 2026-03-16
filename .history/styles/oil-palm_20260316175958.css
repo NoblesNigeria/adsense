@@ -2,9 +2,9 @@ body{
     display:grid;
     grid-template-columns: 1fr;
     overflow-x: hidden;
-    padding: 0;
+    padding: 20px;
     margin: 0;
-    width: 100%;
+    width: auto;
 
 }
 header{
