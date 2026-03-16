@@ -2,10 +2,8 @@ body{
     display:grid;
     grid-template-columns: 1fr;
     overflow-x: hidden;
-    margin: 0;
-    padding: 0;
+    margin: ;
     width: auto;
-    min-width: 100px;
 
 }
 .header{
