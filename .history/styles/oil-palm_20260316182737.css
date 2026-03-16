@@ -9,7 +9,7 @@ body{
 header{
     display: flex;
     background-color: lightgray ;
-    margin-right: 15px;
+    margin-left: 15px;
 }
 h1{
     color:green;
@@ -65,10 +65,9 @@ footer{
     display: flex;
     flex-direction: column;
     background-color: black;
-    font-size: small;
     color: white;
     text-align: center;
-    margin-right: 15px;
+    margin-left: 15px;
 
 }
 table {
@@ -95,7 +94,7 @@ th {
   font-weight: bold;
 }
 .ad-space{
-margin: 0 20px;
+margin: 20px 0;
 text-align:center;
 min-height: 250px;
 }

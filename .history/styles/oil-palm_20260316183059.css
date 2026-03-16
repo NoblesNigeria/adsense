@@ -9,7 +9,7 @@ body{
 header{
     display: flex;
     background-color: lightgray ;
-    margin-right: 15px;
+    margin-: 15px;
 }
 h1{
     color:green;
