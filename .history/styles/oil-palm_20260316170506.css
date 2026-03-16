@@ -2,8 +2,7 @@ body{
     display:grid;
     grid-template-columns: 1fr;
     overflow-x: hidden;
-    margin-left: 40px;
-    margin-right: 40px;
+    margin
 
 }
 header{
