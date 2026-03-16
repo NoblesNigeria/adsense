@@ -20,12 +20,12 @@ h2{
 
 }
 h3{
-    color:green;
+    color: blue;
     margin: 20px;
+}
 }
 h4{
     color:darkgreen;
-    margin: 20px;
 }
 p{
     font-weight: 400;
@@ -64,7 +64,6 @@ footer{
     background-color: black;
     color: white;
     text-align: center;
-    margin: 20px;
 
 }
 table {
