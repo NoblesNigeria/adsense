@@ -67,7 +67,8 @@ footer{
     background-color: black;
     color: white;
     text-align: center;
-    padding: 0 15px;
+    margin: 20px;
+    width: auto;
 
 }
 table {
